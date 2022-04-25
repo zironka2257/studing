@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+}
+
+.part1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;  
+}
+
+.section1{
+    
+    width: 35vw;
+}
+
+.section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.side{
+    width: 30vw;
+}
+
+.footer{
+    display: flex;
+}
